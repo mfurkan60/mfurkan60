@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on Web Projects
 - 🌱 I’m currently learning Machine Learning with Python
-  - 💬 Ask me about Anything
+- 💬 Ask me about Anything
 - 📫 How to reach me: [My Web Site](https://www.mertfurkanerguden.com/)
  
  
