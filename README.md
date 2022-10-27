@@ -1,4 +1,4 @@
-### Hi! I’m Mert, computer engineering student and freelancer  web developer.👋. I love object-oriented programming, open source world and Github :
+### Hi! I’m Mert, Software Engineer and and Founder of GET Software Company.👋. I love object-oriented programming, open source world and Github :
 
 
  
