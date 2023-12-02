@@ -3,11 +3,13 @@
 
  
 
-- 🔭 I’m currently working on Web Projects
-- 🌱 I’m currently learning Android with Java 👋
-- 💬 Ask me about Anything
-- 📫 How to reach me: [My Web Site]([https://www.mertfurkanerguden.com/](https://mfurkan60.github.io/Mert-Furkan-Erg-den/))
- 
+- 🔭 Currently working on software projects and creating amazing things
+
+- 🌱 Learning AI
+
+- 💬 Ask me about anything
+
+- 📫 Reach me at: My Web Site: [My Web Site](https://mfurkan60.github.io/Mert-Furkan-Erg-den/)
  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mfurkan60)]
+[![Mert's GitHub stats](https://github-readme-stats.vercel.app/api?username=mfurkan60)]
