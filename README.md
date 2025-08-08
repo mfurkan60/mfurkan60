@@ -37,25 +37,32 @@ PostgreSQL • MongoDB
 
 ---
 
+### 🚩 Highlights
+
+- 💼 Founder @ **Get Software** – Building smart solutions for modern businesses  
+- 🧠 Leading product development for AI-based B2B SaaS platforms  
+- ✍️ Writing on technology, productivity & entrepreneurship on [Medium](https://mfurkanergdn.medium.com/)  
+- 🗣️ Giving talks and mentorships on tech careers & product development  
+
+---
+
+### 🚧 Key Projects
+
+- 🔹 **MUPA Platform** – Custom workflow management tool for industrial planning  
+- 🔹 **Real Estate Estimation System** – ML-powered platform for property value analysis  
+- 🔹 **AI-Based SaaS Suite** – Modular backend with multi-tenant architecture  
+- 🔹 **TILKY API** – Scalable Express.js backend with JWT, dynamic role management  
+
+> 🧠 More projects available on my GitHub repos!
+
+---
+
 ### 📫 Connect With Me
 
 - 🌐 Website: [mertfurkanerguden.com](https://mertfurkanerguden.com)  
 - 💼 LinkedIn: [Mert Furkan ERGÜDEN](https://www.linkedin.com/in/mertfurkanerguden/)  
 - 📝 Medium: [@mfurkanergdn](https://mfurkanergdn.medium.com/)  
 - 📧 Email: [mfurkanergdn@hotmail.com](mailto:mfurkanergdn@hotmail.com)  
-
----
-
-### 📊 GitHub Stats
-
-![Mert's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mfurkan60&show_icons=true&theme=radical&count_private=true&hide_title=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mfurkan60&layout=compact&theme=radical)
-
-<!-- Activity graph alternative (deprecated) -->
-<!--
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=mfurkan60&theme=react-dark)
--->
 
 ---
 
