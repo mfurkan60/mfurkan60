@@ -1,70 +1,83 @@
-<h1 align="center">Hi, I'm Mert Furkan Ergüden 👋</h1>
-<p align="center">
-  Founder of <b>Get Software</b> | Product Lead in AI-powered B2B & SaaS platforms<br>
-  Software Engineer • Entrepreneur • Writer
-</p>
+# Hi, I'm Mert Furkan Ergüden 👋
+
+**Founder of Get Software** | Product Lead in AI-powered B2B & SaaS platforms  
+Software Engineer • Entrepreneur • AI Builder • Writer
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
-I'm a passionate Software Engineer focused on building meaningful digital products, leading innovative teams, and sharing knowledge with the community.  
-Whether it's web development, AI, or product strategy — I'm all in!
+I'm a passionate Software Engineer and Product Leader focused on building meaningful digital products, leading innovative teams, and creating scalable AI-powered systems.
 
----
+My expertise spans full-stack development, LLM applications, AI integrations, SaaS architectures, and product strategy.
 
-### 🛠️ Technologies & Tools
-
-**Languages:**  
-JavaScript • Python • Java • PHP8X  
-
-**Frameworks & Libraries:**  
-React • Node.js • Express • Flutter  
-
-**Tools & Platforms:**  
-Git • Docker • Kubernetes • Postman  
-
-**Databases:**  
-PostgreSQL • MongoDB  
+I enjoy transforming complex ideas into impactful user experiences and business solutions.
 
 ---
 
-### 🌱 Currently Exploring
+## 🧠 AI & LLM Focus
 
-- Artificial Intelligence & Machine Learning  
-- Web3 & Blockchain Technologies  
-- User Experience & Interface Design  
-
----
-
-### 🚩 Highlights
-
-- 💼 Founder @ **Get Software** – Building smart solutions for modern businesses  
-- 🧠 Leading product development for AI-based B2B SaaS platforms  
-- ✍️ Writing on technology, productivity & entrepreneurship on [Medium](https://mfurkanergdn.medium.com/)  
-- 🗣️ Giving talks and mentorships on tech careers & product development  
+- Large Language Model (LLM) integrations
+- AI-powered SaaS architectures
+- Prompt engineering & AI automation
+- Retrieval-Augmented Generation (RAG) systems
+- Multi-tenant AI platforms
+- AI product strategy & workflow design
+- Intelligent business automation solutions
 
 ---
 
-### 🚧 Key Projects
+## 🛠️ Technologies & Tools
 
-- 🔹 **MUPA Platform** – Custom workflow management tool for industrial planning  
-- 🔹 **Real Estate Estimation System** – ML-powered platform for property value analysis  
-- 🔹 **AI-Based SaaS Suite** – Modular backend with multi-tenant architecture  
-- 🔹 **TILKY API** – Scalable Express.js backend with JWT, dynamic role management  
+### Languages
 
-> 🧠 More projects available on my GitHub repos!
+JavaScript • Python • Java • PHP8X
+
+### Frameworks & Libraries
+
+React • Node.js • Express • Flutter
+
+### AI & Backend
+
+OpenAI APIs • LangChain • REST APIs • JWT Authentication • Vector Databases
+
+### Tools & Platforms
+
+Git • Docker • Kubernetes • Postman
+
+### Databases
+
+PostgreSQL • MongoDB
 
 ---
 
-### 📫 Connect With Me
+## 🌱 Currently Exploring
 
-- 🌐 Website: [mertfurkanerguden.com](https://mertfurkanerguden.com)  
-- 💼 LinkedIn: [Mert Furkan ERGÜDEN](https://www.linkedin.com/in/mertfurkanerguden/)  
-- 📝 Medium: [@mfurkanergdn](https://mfurkanergdn.medium.com/)  
-- 📧 Email: [mfurkanergdn@hotmail.com](mailto:mfurkanergdn@hotmail.com)  
+- Advanced LLM architectures
+- Autonomous AI agents
+- Web3 & Blockchain technologies
+- Human-centered AI experiences
+- AI-driven product design
 
 ---
 
-<!-- Optional Quote -->
-<p align="center"><i>“Great products are built by those who care deeply about people.”</i></p>
+## 🚩 Highlights
+
+- 💼 Founder @ **Get Software** – Building smart solutions for modern businesses
+- 🤖 Leading AI-powered B2B SaaS product development
+- 🧠 Building scalable LLM-integrated systems & automation tools
+- ✍️ Writing about AI, technology, productivity & entrepreneurship on Medium
+- 🗣️ Giving talks and mentorships on software, AI & product development
+
+---
+
+## 📫 Connect With Me
+
+- Website: [mertfurkanerguden.com](https://mertfurkanerguden.com)
+- LinkedIn: [Mert Furkan ERGÜDEN](https://www.linkedin.com/in/mertfurkanerguden/)
+- Medium: [@mfurkanergdn](https://mfurkanergdn.medium.com/)
+- Email: [mfurkanergdn@hotmail.com](mailto:mfurkanergdn@hotmail.com)
+
+---
+
+> “Great products are built by those who care deeply about people.”
